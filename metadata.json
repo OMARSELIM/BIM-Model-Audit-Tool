@@ -1,0 +1,5 @@
+{
+  "name": "BIM Model Audit Tool",
+  "description": "A professional tool to audit BIM model data (Levels, Grids, Coordinates, Worksets) against project standards using Gemini AI.",
+  "requestFramePermissions": []
+}
