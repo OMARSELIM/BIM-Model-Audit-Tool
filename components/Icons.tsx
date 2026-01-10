@@ -13,7 +13,10 @@ import {
   ArrowRight,
   RefreshCw,
   BarChart3,
-  CheckSquare
+  CheckSquare,
+  Info,
+  Download,
+  Search
 } from 'lucide-react';
 
 export const Icons = {
@@ -28,8 +31,11 @@ export const Icons = {
   Coordinates: MapPin,
   Worksets: Users,
   Upload: Upload,
+  Download: Download,
   ArrowRight: ArrowRight,
   Refresh: RefreshCw,
   Chart: BarChart3,
-  Check: CheckSquare
+  Check: CheckSquare,
+  Info: Info,
+  Search: Search
 };
